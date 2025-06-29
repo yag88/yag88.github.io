@@ -78,9 +78,4 @@ Contact
 
 <ins>[Politique de confidentialité  <br>Déclaration d'accessibilité  <br>Conditions générales  <br>Politique de remboursement](https://029730.wixsite.com/allyage/blank)</ins>
 
-- ![Link](:/2f464e59f49e498eaaa95678f76aaf00)
-- ![Link](:/2f464e59f49e498eaaa95678f76aaf00)
-- ![Link](:/2f464e59f49e498eaaa95678f76aaf00)
-- ![Link](:/2f464e59f49e498eaaa95678f76aaf00)
-
-© 2035 by ALLYAGE. Powered and secured by [<ins>Wix</ins>](https://www.wix.com)
+© 2035 by ALLYAGE. 
