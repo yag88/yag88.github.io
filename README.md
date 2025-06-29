@@ -8,9 +8,6 @@ title: Association ALLYAGE
 
 - [Accueil](https://029730.wixsite.com/allyage)
 
-# Association ALLYAGE
-
-Association ALLYAGEAssociation ALLYAGE
 
 ## Rejoignez notre mouvement
 
@@ -34,7 +31,7 @@ Salle de Conférence Bonnard
 
 ## MISSION
 
-![DSC_4531.jpg](:/98995373b735406084b2352245cda29e)
+<img width="1055" height="741" src="https://static.wixstatic.com/media/c71914_cb9461e522944371962e6a608ddcb331~mv2.jpg/v1/crop/x_0,y_324,w_4567,h_5745/fill/w_283,h_356,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_4531.jpg"/>
 
 Notre président, Yves-André GAGNARD
 
