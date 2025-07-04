@@ -1,10 +1,4 @@
 # Association ALLYAGE
-[](https://029730.wixsite.com/allyage)
-
-[ALLYAGE](https://029730.wixsite.com/allyage)
-
-- [Accueil](https://029730.wixsite.com/allyage)
-
 
 ## Rejoignez notre mouvement
 
