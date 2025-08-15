@@ -1,5 +1,8 @@
 # Association ALLYAGE
 
+Annonce : le domaine (allyage.eu) appartient à notre organisation à but non lucratif ALLYAGE et nous l'utilisons pour notre espace de travail Google Nonprofits. contact administrateur: yag@allyage.eu 
+
+
 ## Rejoignez notre mouvement
 
 ALLYAGE vous invite à rejoindre un mouvement dédié au pro-européanisme, au renouveau démocratique, à la transition écologique, à la justice sociale et à l'engagement citoyen. Avec nous, vous pouvez créer une société plus inclusive et plus juste.
