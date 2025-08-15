@@ -69,7 +69,7 @@ La justice sociale est au cœur de notre mission, nous efforçant d’éliminer 
 
 Contact
 
-[info@allyage.eu](mailto:info@mysite.com)
+[yag@allyage.eu](mailto:yag@mysite.com)
 
 16b Av. Gaston Lacoste, 64000 Pau, France
 
